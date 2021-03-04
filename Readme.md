@@ -3,7 +3,7 @@
 # Setup
 
 ```bash
-git clone https://github.com/williamluke4/prisma-issues-5827
+git clone https://github.com/williamluke4/prisma-issues-5827.git
 ```
 
 - Open `./scripts/download.sh`
